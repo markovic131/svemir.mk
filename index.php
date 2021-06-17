@@ -17,8 +17,16 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="stylesheet" href="css/main.css">
+        <style>
+            body {
+                background-color: #000 !important;
+                color: #fff;
 
-        <meta name="theme-color" content="#fafafa">
+            }
+            a, a:hover {
+                color: #d14dcf;
+            }
+        </style>
     </head>
 
     <body>
@@ -30,9 +38,9 @@
            <div class="row justify-content-md-center">
                <div class="col-6">
                     <div style="padding-top: 50px;">&nbsp;</div>
-                    <img src="/img/svemir_logo.png" class="img-fluid" alt="">
+                    <img src="/img/svemir_logo_2.png" class="img-fluid" alt="">
                     <p style="padding-top:25px;">
-                        Something is brewing in Kumanovo...
+                        Something is brewing in Kumanovo. Stay tuned <a href="https://instagram.com/svemir.mk">@svemir.mk</a>
                     </p>
                </div>
            </div>
